@@ -26,6 +26,9 @@
   "dependencies": {
     "com.lenovo.trx.core": "2.1.15"
   },
+  "dependenciesUrl": {
+    "com.lenovo.trx.core": "https://github.com/z1246584501/TestLenovoAR.git"
+  },
   "samples": [
    
   ]
