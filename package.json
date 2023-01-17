@@ -1,0 +1,36 @@
+{
+  "name": "com.lenovo.trx.interactions",
+  "version": "3.1.0",
+  "displayName": "ThinkReality eXtensions for Unity Interactions",
+  "description": "Interactions Package of ThinkReality eXtensions for Unity",
+  "unity": "2021.3",
+  "unityRelease": "9f1",
+  "keywords": [
+    "ThinkReality eXtensions for Unity",
+    "ThinkReality",
+    "Lenovo ThinkReality eXtensions"
+  ],
+  "author": {
+    "name": "Lenovo",
+    "email": "sunwt5@lenovo.com",
+    "url": ""
+  },
+  "files": [
+    "*"
+  ],
+  "license": "see ThirdPartyNotices.md",
+  "repository": {
+    "url": "https://bitbucket.tc.lenovo.com/scm/trsdk/thinkreality-xr-plugins.git",
+    "homepage": "https://artifactory.tc.lenovo.com/ui/repos/tree/General/lenovo-release-generic%2FHorizon%20XR%20SDK%2FBuild%2FRelease"
+  },
+  "dependencies": {
+    "com.lenovo.trx.core": "https://github.com/z1246584501/TestLenovoAR.git"
+  },
+  "samples": [
+    {
+      "displayName": "Interactions Samples",
+      "description": "Samples of Interactions features",
+      "path": "Samples~/Interactions Samples"
+    }
+  ]
+}
