@@ -24,13 +24,9 @@
     "homepage": "https://artifactory.tc.lenovo.com/ui/repos/tree/General/lenovo-release-generic%2FHorizon%20XR%20SDK%2FBuild%2FRelease"
   },
   "dependencies": {
-    "com.lenovo.trx.core": "https://github.com/z1246584501/TestLenovoAR.git"
+    "com.lenovo.trx.core": "2.1.15"
   },
   "samples": [
-    {
-      "displayName": "Interactions Samples",
-      "description": "Samples of Interactions features",
-      "path": "Samples~/Interactions Samples"
-    }
+   
   ]
 }
